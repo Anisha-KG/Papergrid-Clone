@@ -1,0 +1,49 @@
+.navbar-nav .nav-link {
+    color: rgb(180, 176, 176) !important;  /* Default color */
+    text-decoration: none;  /* Remove underline */
+  }
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link:focus{
+    color: white !important;
+    text-decoration: underline;
+  }
+  .navbar-container{
+    padding-left: 100px;
+    
+    
+  }
+  .free-shipping{
+    font-size: small;
+    word-spacing: 3px;
+
+  }
+  .free-shipping:hover{
+    background-color: rgb(41, 40, 40) !important;
+    
+  }
+  .papergrid{
+    font-size: x-large;
+    font-weight: bold;
+  }
+  ul i{
+    margin: 20px;
+    
+  }
+  .founder{
+    word-spacing: 3px;
+    padding: 60px;
+    line-height: 50px;
+
+  }
+  .footer-text{
+    font-size: 12px;
+    color: grey;
+    padding-top: 60px;
+  }
+  .contact ul li{
+    font-size: 20px;
+    line-height: 50px;
+    
+
+  }
+  
